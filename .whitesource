@@ -1,7 +1,8 @@
 {
   "settingsInheritedFrom": "tabacmend-sandbox/whitesource-config@main",
    "scanSettings": {
-      "baseBranches": ["license_branch","Sec_vuls"]
+      "baseBranches": ["license_branch","Sec_vuls"],
+      "enableLicenseViolations": "true"
       },
   "issueSettings": {
     "minSeverityLevel": "NONE"
