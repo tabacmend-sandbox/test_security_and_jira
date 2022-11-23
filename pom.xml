@@ -53,6 +53,12 @@
 			<version>2.2</version>
 			<scope>provided</scope>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/ome/formats-gpl -->
+		<dependency>
+		    <groupId>ome</groupId>
+		    <artifactId>formats-gpl</artifactId>
+		    <version>5.0.3</version>
+		</dependency>
 		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>jstl</artifactId>
