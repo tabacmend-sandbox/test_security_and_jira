@@ -1,8 +1,7 @@
 {
   "settingsInheritedFrom": "tabacmend-sandbox/whitesource-config@main",
    "scanSettings": {
-      "baseBranches": ["license_branch"],
-       "projectToken": "12099fa97fd14d499508aaafa308a8282227df12bd014b21b9ab7f4633b84526"
+      "baseBranches": ["license_branch"]
       },
   "issueSettings": {
     "minSeverityLevel": "NONE"
