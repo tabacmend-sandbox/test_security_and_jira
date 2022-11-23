@@ -30,6 +30,11 @@
 	</profiles>
 	
 	<dependencies>
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-log4j12</artifactId>
+			<version>1.5.0</version>
+		</dependency>
 		<!-- https://mvnrepository.com/artifact/de.tudarmstadt.ukp.dkpro.core/de.tudarmstadt.ukp.dkpro.core.stanfordnlp-gpl -->
 		<dependency>
 		    <groupId>de.tudarmstadt.ukp.dkpro.core</groupId>
