@@ -1,0 +1,10 @@
+{
+  "settingsInheritedFrom": "tabacws-sandbox/whitesource-config@main",
+   "scanSettings": {
+      "baseBranches": ["license_branch"],
+      "projectToken": 920d387d845b4c9496a521784335265af542c6a1a6bf4fefaa70cc2e7a36e58e,
+      },
+  "issueSettings": {
+    "minSeverityLevel": "NONE"
+  }
+}
