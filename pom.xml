@@ -53,11 +53,11 @@
 			<version>2.2</version>
 			<scope>provided</scope>
 		</dependency>
-		<!-- https://mvnrepository.com/artifact/ome/formats-gpl -->
+		<!-- https://mvnrepository.com/artifact/de.tudarmstadt.ukp.dkpro.core/de.tudarmstadt.ukp.dkpro.core.stanfordnlp-gpl -->
 		<dependency>
-		    <groupId>ome</groupId>
-		    <artifactId>formats-gpl</artifactId>
-		    <version>5.0.3</version>
+		    <groupId>de.tudarmstadt.ukp.dkpro.core</groupId>
+		    <artifactId>de.tudarmstadt.ukp.dkpro.core.stanfordnlp-gpl</artifactId>
+		    <version>1.10.0</version>
 		</dependency>
 		<dependency>
 			<groupId>javax.servlet</groupId>
